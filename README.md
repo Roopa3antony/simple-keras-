@@ -1,2 +1,2 @@
-# simple-keras-
-A simple keras program
+# Total Earning prediction for video games
+This is a simple beginner level keras model for predicting the Total Earnings for various Video Games.
